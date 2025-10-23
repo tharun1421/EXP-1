@@ -41,9 +41,9 @@ b.  KCL:
 CIRCUIT DIAGRAM:
 
 CIRCUIT DIAGRAM:
-<img width="868" height="392" alt="image" src="https://github.com/user-attachments/assets/df397ce9-d7bd-4bd6-9266-d269c42c874e" />
-<img width="838" height="407" alt="image" src="https://github.com/user-attachments/assets/52781904-0540-47db-8067-6b4c5b9c17fc" />
+<img width="1266" height="649" alt="Screenshot 2025-10-23 145204" src="https://github.com/user-attachments/assets/290fdf85-743d-45f7-9405-ee20825a21c9" />
 
+<img width="868" height="392" alt="Screenshot 2025-10-23 145235" src="https://github.com/user-attachments/assets/63e5ea13-ce37-41b1-8eed-2464616c0c8f" />
 
 
 
